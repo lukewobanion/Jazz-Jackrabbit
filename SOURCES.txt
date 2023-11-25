@@ -1,0 +1,8 @@
+setup.py
+SDL_PACKAGE.egg-info/PKG-INFO
+SDL_PACKAGE.egg-info/SOURCES.txt
+SDL_PACKAGE.egg-info/dependency_links.txt
+SDL_PACKAGE.egg-info/requires.txt
+SDL_PACKAGE.egg-info/top_level.txt
+sdl_pkg/__init__.py
+sdl_pkg/area_calculator.py
